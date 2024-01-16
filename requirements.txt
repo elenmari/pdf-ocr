@@ -1,5 +1,8 @@
+autopep8==2.0.4
 packaging==23.2
 pdf2image==1.17.0
 pillow==10.2.0
+pycodestyle==2.11.1
 pytesseract==0.3.10
 tesseract==0.1.3
+tomli==2.0.1
